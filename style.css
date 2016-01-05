@@ -1,0 +1,17 @@
+<head>
+<title>My Index Page</title>
+<meta @charset "UTF-8">
+<link rel="stylesheet" href="style.css"
+</head>
+
+a {
+  text-decoration: none;
+  color: DarkSlateGray;
+  font-weight: bold;
+}
+#navmenu{
+  list-style: none;
+}
+.navitems {
+  margin: 10px;
+}
