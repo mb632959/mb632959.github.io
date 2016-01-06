@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Teko:400,700,600,500,300|Finger+Paint|Sarina|Nosifer|Monofett|Meddon);
+body {
+  background-color: Green;
+  margin-bottom: inherit;auto;
+  font-stretch: extra-expanded;
+  text-align: center;
+  text-shadow: 20px 20px #ff1346;
+  text-rendering: geometricPrecision;
+  font-weight: bolder;
+  font-variant: small-caps;
+}
+
+h1{
+  font-family: 'Teko', sans-serif;
+  font-size:60px;
+  color: hotpink;
+  text-decoration: underline;
+  border-style: dashed;
+  border-radius: 25px
+
+
+}
+
+h2{
+  font-family: 'Finger Paint', cursive;
+  font-size:20px;
+  color:purple;
+  text-decoration: overline;
+  border-style: dotted;
+  border-radius: 13px
+
+}
+
+h3{
+  font-family: 'Sarina', cursive;
+  font-size:20px;
+  color: blue;
+  text-indent: inherit;
+  border-style: double;
+}
+
+h4{
+  font-family: 'Nosifer', cursive;
+  font-size:20px;
+  color: red;
+  text-decoration: line-through;
+  border-style: ridge;
+}
+
+h5{
+  font-family: 'Monofett', cursive;
+  font-size:30px;
+  color: yellow;
+  text-decoration: underline;
+  border-style: solid;
+  border-radius: 50px
+}
+h6{
+  font-family: 'Meddon', cursive;
+  font-size:20px;
+  color:brown;
+  text-decoration: none;
+  border-style: outset;
+  border-radius: 500px
+}
