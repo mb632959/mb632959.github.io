@@ -1,0 +1,218 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,700);
+header{
+  width: 100%;
+  text-align: center;
+  font-size: 40px;
+}
+#navlist{
+  list-style: none;
+}
+#navlist li{
+  display: inline-block;
+  widith: 500% 100%;
+  text-align: center;
+  font-size: 40px;
+}
+Body{
+  background-color: peachpuff;
+  color:black;
+  font-family: "Alegreya";
+}
+#Main{
+  text-align: center;
+  font-size: 25px;
+
+}
+#story{
+  box-sizing: border-box;
+  border-style: solid;
+  text-align: center;
+  word-wrap:break-word;
+  font-size: 25px;
+
+}
+#menu{
+  width: 1000px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+#Appetizers{
+  box-sizing: border-box;
+  border-style: solid;
+  width:25%;
+  padding: 10px;
+  float: left;
+  height:580px;
+  text-align: center;
+
+}
+#Soups{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:25%;
+  padding: 10px;
+  height:580px;
+  text-align: center;
+
+}
+#Sandwiches{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:25%;
+  padding: 10px;
+  height:580px;
+  text-align: center;
+
+}
+#Beans{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:25%;
+  padding: 10px;
+  height:580px;
+  text-align: center;
+
+}
+#Events{
+  width: 1205px;
+  text-align: center;
+  margin: 0 auto;
+
+}
+#Pope{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:16%;
+  padding: 15px;
+  height:300px;
+  text-align: center;
+float: left;
+
+}
+#Manayunk{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:16%;
+  padding: 15px;
+  height:300px;
+  text-align: center;
+  float: left;
+
+}
+#Drexel{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:16%;
+  padding: 15px;
+  height:300px;
+  text-align: center;
+  float: left;
+
+
+}
+#Fairmont{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:16%;
+  padding: 15px;
+  height:300px;
+  text-align: center;
+  float: left;
+
+
+}
+#Brewery{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:16%;
+  padding: 15px;
+  height:300px;
+  text-align: center;
+  float: left;
+
+}
+#Halloween{
+  box-sizing: border-box;
+  border-style: solid;
+  float:left;
+  width:16%;
+  padding: 15px;
+  height:300px;
+  text-align: center;
+  float: left;
+
+}
+
+#image1{
+  width: 30px;
+  height:auto;
+}
+#image2{
+  width: 300px;
+  height:auto;
+}
+#image3{
+  width: 300px;
+  height:auto;
+}
+#image4{
+  width: 300px;
+  height:auto;
+}
+#image5{
+  width: 300px;
+  height:auto;
+}
+#image6{
+  width: 300px;
+  height:auto;
+}
+#image7{
+  width: 300px;
+  height:auto;
+}
+#image8{
+  width: 300px;
+  height:auto;
+}
+#image9{
+  width: 300px;
+  height:auto;
+}
+#image10{
+  width: 300px;
+  height:auto;
+}
+#image11{
+  width: 300px;
+  height:auto;
+}
+#image12{
+  width: 300px;
+  height:auto;
+}
+#image13{
+  width: 300px;
+  height:auto;
+}
+#image14{
+  width: 300px;
+  height:auto;
+}
+#image15{
+  width: 300px;
+  height:auto;
+}
+#image16{
+  width: 300px;
+  height:auto;
+}
