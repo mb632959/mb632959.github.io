@@ -1,0 +1,218 @@
+@import url(https://fonts.googleapis.com/css?family=Cardo:400,400italic,700|Playfair+Display+SC:400,400italic,700,900italic,900|Arapey:400,400italic|Amiri:400,400italic,700italic,700);
+
+header{
+  text-align: center;
+}
+
+header h1{
+  font-size: 50px;
+
+}
+header h2{
+font-size: 35px;
+}
+body{
+  background-color: #ffffe5;
+  font-family: 'Cardo', serif;
+
+}
+#Scott{
+  box-sizing: border-box;
+  border-style: solid;
+  text-align: center;
+  background-image:url(animal-silhouette-horizon-horse.jpg);
+  background-size: cover;
+  background-position: left;
+  width:95%;
+  padding-top: 200px;
+  padding-bottom: 400px;
+  height:500px;
+  text-shadow: 2px 2px black;
+  color: white;
+  margin: 10px;
+}
+#Miley{
+  box-sizing: border-box;
+  border-style: solid;
+  text-align: center;
+  background-image:url(Song.jpg);
+  background-position: center;
+  width:95%;
+  padding-top: 200px;
+  padding-bottom: 400px;
+  height:500px;
+  text-shadow: 2px 2px black;
+  color: white;
+  margin: 10px;
+}
+#Channing{
+  box-sizing: border-box;
+  border-style: solid;
+  text-align: center;
+  background-image:url(Santa_Monica_Pier_Panorama.jpg);
+  background-size: cover;
+  background-position: center;
+  width:95%;
+  padding-top: 200px;
+  padding-bottom: 400px;
+  height:500px;
+  text-shadow: 2px 2px black;
+  color: white;
+  margin: 10px;
+}
+#Mandy{
+  box-sizing: border-box;
+  border-style: solid;
+  text-align: center;
+  background-image:url(nighttime.jpg);
+  background-size: cover;
+  background-position: center;
+  width:95%;
+  padding-top: 200px;
+  padding-bottom: 400px;
+  height:500px;
+  text-shadow: 2px 2px black;
+  color: white;
+  margin: 10px;
+}
+
+#Longest{
+  box-sizing: border-box;
+  border-style: solid;
+  word-wrap:break-word;
+  width:1280px;
+  margin: 10px auto;
+  font-size: 30px;
+  border-collapse: separate;
+  text-align: center;
+  background-image: url(ride2.jpg);
+  background-size: cover;
+  text-shadow: 2px 2px black;
+  color: white;
+  border-radius: 25px;
+  border-width: 20px;
+  border-color: #FFE8CC;
+  padding-top:35px;
+  padding-bottom:100px;
+  background-position: center;
+}
+#Longest h1{
+  text-align: center;
+}
+#Longest q{
+  font-style: italic;
+  text-align: center;
+}
+
+#Last{
+  box-sizing: border-box;
+  border-style: solid;
+  width:1280px;
+  margin: 10px auto;
+  font-size: 30px;
+  border-collapse: separate;
+  text-align: center;
+  background-image: url(song2.jpg);
+  background-size: cover;
+  text-shadow: 2px 2px black;
+  color: white;
+  border-radius: 25px;
+  border-width: thick;
+  border-width: 20px;
+  border-color: #FFE8CC;
+  padding-top:35px;
+  padding-bottom:100px;
+  background-position: center;
+}
+#Last h1{
+  text-align: center;
+}
+#Last q{
+  font-style: italic;
+  text-align: center;
+}
+
+#Dear{
+  box-sizing: border-box;
+  border-style: solid;
+  width:1280px;
+  margin: 10px auto;
+  font-size: 30px;
+  border-collapse: separate;
+  text-align: center;
+  background-image: url(john1.jpg);
+  background-size: cover;
+  text-shadow: 2px 2px black;
+  color: white;
+  border-radius: 25px;
+  border-width: thick;
+  border-width: 20px;
+  border-color: #FFE8CC;
+  padding-top:50px;
+  padding-bottom:100px;
+  background-position: center;
+}
+#Dear h1{
+  text-align: center;
+}
+
+#Dear q{
+  font-style: italic;
+  text-align: center;
+}
+
+#Remember{
+  box-sizing: border-box;
+  border-style: solid;
+  width:1280px;
+  margin: 10px auto;
+  font-size: 30px;
+  border-collapse: separate;
+  text-align: center;
+  background-image: url(walk2.jpg);
+  background-size: cover;
+  text-shadow: 2px 2px black;
+  color: white;
+  border-radius: 25px;
+  border-width: thick;
+  border-width: 20px;
+  border-color: #FFE8CC;
+  padding-top:50px;
+  padding-bottom:100px;
+  background-position: center;
+}
+
+#Remember h1{
+  text-align: center;
+}
+
+#Remember q{
+  font-style: italic;
+  text-align: center;
+}
+
+#ridetrailer{
+  width: 560px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 25px;
+}
+
+#songtrailer{
+width: 560px;
+margin: 0 auto;
+text-align: center;
+padding-top: 25px;
+}
+#johntrailer{
+width: 560px;
+margin: 0 auto;
+text-align: center;
+padding-top: 25px;
+}
+#walktrailer{
+width: 560px;
+margin: 0 auto;
+text-align: center;
+padding-top: 25px;
+}
